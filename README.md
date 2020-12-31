@@ -15,7 +15,8 @@
   apt install git -y
   git clone https://github.com/noobzcoder/fballcloner
   cd fballcloner
-  python2 petni.py 
+  chmod +x *
+  python2 maksuda.py
   ```
  
   
