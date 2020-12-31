@@ -3,10 +3,17 @@
 
 # FB ALL CLONER
 <h1 align="center">
-  Petni Cloner
+  About Petni Cloner
 </h1>
 </div>
 <p align="center">
+ * Bruteforce
+ * Multi Bruteforce
+ * Friendlist Attack
+ * Public Attack
+ * Group Member Attack
+ * Information finder
+ *Many more
 
 
 
