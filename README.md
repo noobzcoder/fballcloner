@@ -25,7 +25,7 @@
   git clone https://github.com/noobzcoder/fballcloner
   cd fballcloner
   chmod +x *
-  python2 maksuda.py
+  python2 mkm143.py
   ```
  
 ### Follow Me ###
